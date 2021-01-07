@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #6C6C6C;
+}
+
+
+.big-lighting{
+    background: #f8f9fc;
+}
+
+
+.buttons {
+    background-image: linear-gradient(200deg, #af3030, #f3917b);
+    display: inline-block;
+    padding: 10px 40px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    letter-spacing: 1px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.aligncn{
+    text-align: center;
+}
+
+.headtitle{
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 48px;
+    padding-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+.titlesub{
+    padding-bottom: 30px;
+    margin: 0;
+
+}
+
+.primarytext{
+    color: #F46060;
+}
+
+.thirdsec-padding{
+    padding: 100px 0;
+}
+
+.navsec{
+    max-width: 1170px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.half-divs{
+    width: 50%;
+    float: left;
+}
+
+
+
+.navbarstyle{
+    text-align: right;
+    padding: 20px 0;
+}
+
+.navbarstyle ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navbarstyle ul li{
+    display: inline-block;
+}
+
+.navbarstyle ul li a{
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    color: #6C6C6C;
+}
+
+
+
+.first-section{
+    padding-top: 40px;
+}
+
+.firstintro-text h2{
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 64px;
+    line-height: 1.2;
+    padding-bottom: 20px;
+}
+
+.firstintro-text p {
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+.firstintro-text h2 span{
+    color: #F46060;
+    display: block;
+}
+
+.abidfirst-img img{
+    width: 80%;
+}
+
+
+
+.aboutinfo{
+    margin-top: 50px;
+    padding-left: 50px;
+}
+.abidsecend-img img{
+    width: 70%;
+}
+
+.aboutsection{
+    padding-bottom: 100px;
+}
+
+
+.worksblocks {
+    width: 29.33%;
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 2%;
+    float: left;
+    box-shadow:0 7px 15px rgba(0,0,0,.15);
+}
+
+
+.worksblocks h3 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 22px;
+    color: #363958;
+}
+
+.worksblocks p{
+    margin: 0;
+}
+
+
+.worksblocks img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+
+
+.inquiry{
+    padding-top: 100px;
+}
+
+.inqubox{
+    width: 70%;
+    margin: auto;
+    padding: 80px 60px;
+    border-radius: 30px;
+    overflow: hidden;
+    background: url('images/work.png') no-repeat scroll center center /cover;
+}
+
+.inqubox h2{
+    font-size: 64px;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 2px;
+    color: #fff;
+}
+
+.inqubutton {
+    text-align: right;
+    margin-top: 27px;
+}
+
+
+
+.footer{
+    text-align: center;
+    padding: 100px 0;
+}
+
+.footer h4{
+    color: #696871;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+    padding-top: 0;
+    padding: 0px;
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+.footer .abidfb a{
+    font-size: 36px;
+    color: #363958;
+    padding: 20px 0;
+    margin: 0;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.footericon ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.footericon ul li {
+    display: inline-block;
+}
+
+.footericon ul li a {
+    display: block;
+    padding: 10px;
+}
+
+.footericon ul li a img {
+    width: 40px;
+    height: 40px;
+}
+
+.copyright{
+    padding-top: 20px;
+}
+.copyright a{
+    display: inline-block;
+    color: #F46060;
+    text-decoration: none;
+}
